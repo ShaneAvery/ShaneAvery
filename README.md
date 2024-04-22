@@ -2,7 +2,7 @@
 - I’m interested in writing code again.
 - I’m currently (re)learning Python.
 - I’m looking to collaborate on whatever I can get my hands on writing pure Python, either as practice or to be useful. 
-- I want to get to a point where any problem given to me that requires code I can basically be able to solve using Python due to knowing it inside and out for the most part. The idea is to get a full time job using my skills with Python.
+- I want to get to a point where any problem given to me that requires code I can basically be able to solve using Python due to knowing it inside and out for the most part.
 - Reaching me on Twitter @TheShaneAvery will be the best place for the time being.
 
 <!---
